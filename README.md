@@ -23,3 +23,5 @@ data again use the inner.Text method. I have not been able to figure this out.
 
 I tried to use similar code that we did in an activity to print the search history of the
 city imput, but I was unable to make it work.
+
+The website has minimal CSS, as I made it the lowest priority, and I ran out of time,
