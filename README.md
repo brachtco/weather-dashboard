@@ -28,4 +28,9 @@ The website has minimal CSS, as I made it the lowest priority, and I ran out of 
 
 ### Deployed Application
 
+https://brachtco.github.io/weather-dashboard/
+
+### Screenshot
+
+![Screen Shot 2022-12-05 at 4 43 54 PM](https://user-images.githubusercontent.com/17559972/205771605-45bc0f7a-3f57-4309-8646-8786c64f0fd5.png)
 
