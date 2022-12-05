@@ -1,1 +1,0 @@
-var weatherAPIKey = '8d6152607e462090ee3f2bd23231cc6b';

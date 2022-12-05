@@ -1,0 +1,129 @@
+:root {
+
+
+}
+
+
+header {
+    background-color: #0C145A;
+    padding: 5px;
+}
+
+
+h1 {
+    text-align: center;
+    color: white
+}
+
+.btn {
+    background-color:cornflowerblue;
+    color: white;
+}
+
+.container {
+    display: flex;
+}
+
+.card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 30vh;
+    margin: 0;
+    background: lightgrey;
+    padding: 20px;
+    border-radius: 30px;
+    width: 100%;
+    max-width: 420px;
+    margin: 5px;
+    position: relative;
+    margin-left: 500px;
+    margin-bottom: 0px;
+
+
+}
+
+.card-forecast-01 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    margin: 0;
+    background: lightgrey;
+    padding: 20px;
+    border-radius: 30px;
+    width: 100%;
+    max-width: 420px;
+    margin: 5px;
+    position: relative;
+    margin-left: 20px;
+    margin-top: 0px;
+}
+
+.card-forecast-02 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    margin: 0;
+    background: lightgrey;
+    padding: 20px;
+    border-radius: 30px;
+    width: 100%;
+    max-width: 420px;
+    margin: 5px;
+    position: relative;
+    margin-left: 20px;
+    margin-top: 0px;
+}
+
+.card-forecast-03 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    margin: 0;
+    background: lightgrey;
+    padding: 20px;
+    border-radius: 30px;
+    width: 100%;
+    max-width: 420px;
+    margin: 5px;
+    position: relative;
+    margin-left: 20px;
+    margin-top: 0px;
+}
+
+.card-forecast-04 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    margin: 0;
+    background: lightgrey;
+    padding: 100px;
+    border-radius: 30px;
+    width: 20%;
+    max-width: 420px;
+    margin: 5px;
+    position: relative;
+    margin-left: 20px;
+    margin-top: 0px;
+}
+
+.card-forecast-05 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    margin: 0;
+    background: lightgrey;
+    padding: 20px;
+    border-radius: 30px;
+    width: 100%;
+    max-width: 420px;
+    margin: 5px;
+    position: relative;
+    margin-left: 20px;
+    margin-top: 0px;
+}
